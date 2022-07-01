@@ -1,4 +1,5 @@
-* 快速介绍
 
-  * [Home](/)
+
+  * [快速开始](/)
   * [JSON Server](/intro)
+  * [Mock](/mock)

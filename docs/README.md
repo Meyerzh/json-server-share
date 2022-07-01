@@ -3,7 +3,7 @@
 > [NPM](https://www.npmjs.com/package/json-server) · [Github](https://github.com/typicode/json-server)
 
 
-## 快速开始
+## 安装
 
 全局安装 JSON Server
 ```bash
@@ -27,26 +27,7 @@ json-server --watch db.json
 - POST、PUT 或 PATCH 请求应包含Content-Type: application/json在请求正文中使用 JSON 的标头。否则它将返回 2XX 状态码，但不会对数据进行更改。
 
 > 演示用数据 [jsonplaceholder](https://jsonplaceholder.typicode.com/)
-## 路由
-
-### 多数据路由
-```bash
-GET    /posts
-GET    /posts/1
-POST   /posts
-PUT    /posts/1
-PATCH  /posts/1
-DELETE /posts/1
-```
-
-### 单数据路由
-```bash
-GET    /profile
-POST   /profile
-PUT    /profile
-PATCH  /profile
-```
-
+## Get 方法
 ### 过滤器
 使用 `.`访问深层属性。
 ```bash
@@ -187,30 +168,8 @@ module.exports = () => {
 json-server index.js
 ```
 
-> **Tip** 使用 Faker, [Casual](https://github.com/boo1ean/casual), [Chance](https://github.com/chancejs/chancejs) 或 [JSON Schema Faker](https://github.com/json-schema-faker/json-schema-faker)等模块。
+> **Tip** 使用 Faker, [Casual](https://github.com/boo1ean/casual), [Chance](https://github.com/chancejs/chancejs) 或 [JSON Schema Faker](https://github.com/json-schema-faker/json-schema-faker)等模块。[Mock.js](http://mockjs.com/)
 
-### [Mock.js](http://mockjs.com/)
-```js
-
-var data = Mock.mock({
-    'users|10': [{
-        'id|+1': 1,
-        'cname': () => Mock.mock('@cname()'),
-        'gender|1': ["男", "女"],
-        'birthday': () => Random.date('yyyy-MM-dd'),
-        'city|1': ["上海市", "江苏省", "浙江省", "安徽省"],
-        'motto': () => Mock.mock('@cparagraph(1, 3)'),
-        'score': () => Mock.mock('@integer(60, 100)')
-    }]
-})
-
-// 输出结果
-console.log(JSON.stringify(data, null, 4))
-
-// 输出结果
-console.log(JSON.stringify(data, null, 4))
-
-```
 
 ### HTTPS
 在开发中设置 SSL 的方法有很多。一种简单的方法是使用[hotel](https://github.com/typicode/hotel)。
