@@ -1,7 +1,6 @@
 # JSON Server
 
 > [NPM](https://www.npmjs.com/package/json-server) · [Github](https://github.com/typicode/json-server)
-[slides-export.pdf](/slides-export.pdf)
 
 ## 安装
 
