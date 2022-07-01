@@ -1,0 +1,26 @@
+{
+  "name": "json-server-share",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "api": "json-server -w db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meyerzh/json-server-share.git"
+  },
+  "author": "Pudge Zhang@fcl:registry=https://flightcentre.jfrog.io/flightcentre/api/npm/drupal-team-npm/",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meyerzh/json-server-share/issues"
+  },
+  "homepage": "https://github.com/Meyerzh/json-server-share#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}

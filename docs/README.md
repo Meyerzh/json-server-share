@@ -3,12 +3,13 @@
 > [NPM](https://www.npmjs.com/package/json-server) · [Github](https://github.com/typicode/json-server)
 
 
-## 开始
+## 快速开始
 
-安装 JSON Server
+全局安装 JSON Server
 ```bash
 npm install -g json-server
 ```
+> npm 查看全局安装的包：npm list -g --depth 0
 
 启动服务
 ```bash
@@ -25,6 +26,7 @@ json-server --watch db.json
 - Id 值是不可变的。
 - POST、PUT 或 PATCH 请求应包含Content-Type: application/json在请求正文中使用 JSON 的标头。否则它将返回 2XX 状态码，但不会对数据进行更改。
 
+> 演示用数据 [jsonplaceholder](https://jsonplaceholder.typicode.com/)
 ## 路由
 
 ### 多数据路由
@@ -186,6 +188,34 @@ json-server index.js
 ```
 
 > **Tip** 使用 Faker, [Casual](https://github.com/boo1ean/casual), [Chance](https://github.com/chancejs/chancejs) 或 [JSON Schema Faker](https://github.com/json-schema-faker/json-schema-faker)等模块。
+
+### [Mock.js](http://mockjs.com/)
+```js
+
+var data = Mock.mock({
+    // 属性 users 的值是一个数组。
+    'users|50': [{
+        // 属性 id 是一个自增数，起始值为 1，每次增 1
+        'id|+1': 1,
+        'name': Mock.mock('@cname()'),
+        'gender|1': ["男", "女"],
+        'birthday': Random.date('yyyy-MM-dd'),
+        'city|1': {
+            "310000": "上海市",
+            "320000": "江苏省",
+            "330000": "浙江省",
+            "340000": "安徽省"
+        },
+        'motto': Mock.mock('@cparagraph(1, 3)'),
+        'score': Mock.mock('@integer(60, 100)')
+
+    }]
+})
+
+// 输出结果
+console.log(JSON.stringify(data, null, 4))
+
+```
 
 ### HTTPS
 在开发中设置 SSL 的方法有很多。一种简单的方法是使用[hotel](https://github.com/typicode/hotel)。
