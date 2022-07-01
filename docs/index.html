@@ -26,17 +26,11 @@
   <link rel="stylesheet" href="./css/style.css">
   <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
   <script>
-    const Docs = {
-      repo: "https://bitbucket.org/ciandt_it/enterprise-cms/src",
-      branch: "/monoweb-docs-05/",  // Default Branch is "/master/"
-      getRepoUrl: function() {
-        return this.repo + this.branch;
-      }
-    }
 
     window.$docsify = {
       name: 'JSON Server - 文档',
-      repo: Docs.getRepoUrl(),
+      // TODO: Set Repo url
+      repo:  "https://github.com/Meyerzh/json-server-share",
       // basePath: './markdown/',
       // homepage: 'Home.md',
       themeColor: '#712b9c',
@@ -81,7 +75,7 @@
       plugins: [
         function(hook, vm) {
           hook.beforeEach(function(html) {
-            var url = Docs.getRepoUrl() + vm.route.file;
+            var url = 'https://github.com/Meyerzh/json-server-share/blob/master' + vm.route.file;
             var editHtml = '[📝Edit Document](' + url + ')\n';
             return (
               editHtml +
