@@ -49,14 +49,3 @@ json-server index.js
 
 ## HTTPS
 在开发中设置 SSL 的方法有很多。一种简单的方法是使用[hotel](https://github.com/typicode/hotel)。
-
-## 添加自定义路由
-创建一个`routes.json`文件。注意每个路由都以`/`开始.
-```bash
-{
-  "/api/*": "/$1",
-  "/:resource/:id/show": "/:resource/:id",
-  "/posts/:category": "/posts?category=:category",
-  "/articles\\?id=:id": "/posts/:id"
-}
-```
