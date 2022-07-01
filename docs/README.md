@@ -193,24 +193,19 @@ json-server index.js
 ```js
 
 var data = Mock.mock({
-    // 属性 users 的值是一个数组。
-    'users|50': [{
-        // 属性 id 是一个自增数，起始值为 1，每次增 1
+    'users|10': [{
         'id|+1': 1,
-        'name': Mock.mock('@cname()'),
+        'cname': () => Mock.mock('@cname()'),
         'gender|1': ["男", "女"],
-        'birthday': Random.date('yyyy-MM-dd'),
-        'city|1': {
-            "310000": "上海市",
-            "320000": "江苏省",
-            "330000": "浙江省",
-            "340000": "安徽省"
-        },
-        'motto': Mock.mock('@cparagraph(1, 3)'),
-        'score': Mock.mock('@integer(60, 100)')
-
+        'birthday': () => Random.date('yyyy-MM-dd'),
+        'city|1': ["上海市", "江苏省", "浙江省", "安徽省"],
+        'motto': () => Mock.mock('@cparagraph(1, 3)'),
+        'score': () => Mock.mock('@integer(60, 100)')
     }]
 })
+
+// 输出结果
+console.log(JSON.stringify(data, null, 4))
 
 // 输出结果
 console.log(JSON.stringify(data, null, 4))
