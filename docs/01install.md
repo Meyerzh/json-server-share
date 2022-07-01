@@ -1,8 +1,8 @@
-# JSON Server
+## JSON Server
 
 > [NPM](https://www.npmjs.com/package/json-server) · [Github](https://github.com/typicode/json-server)
 
-## 安装
+### 安装
 
 全局安装 JSON Server
 ```bash
@@ -10,14 +10,17 @@ npm install -g json-server
 ```
 > npm 查看全局安装的包：npm list -g --depth 0
 
-启动服务
+
+
+### 启动服务
 ```bash
 json-server --watch db.json
 ```
 > 执行这个命令会自动在当前目录下创建`db.json`文件
 
 
-访问地址 http://localhost:3000/
+### 访问地址
+http://localhost:3000/
 
 此外，在处理请求时，最好知道：
 - 如果您发出 POST、PUT、PATCH 或 DELETE 请求，更改将自动安全地保存到db.json。

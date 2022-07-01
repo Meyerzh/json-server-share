@@ -2,903 +2,1803 @@
   "users": [
       {
           "id": 1,
-          "gender": "男",
+          "gender": "女",
           "city": "江苏省",
-          "cname": "袁刚",
-          "birthday": "2016-07-09",
-          "motto": "别指打她片便干际角上种要强局管越状义。车办用京然和级先都道社约会最观。思实回维增指们展同事者求位算。",
-          "score": 85
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 69
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 71
+              }
+          },
+          "cname": "段敏",
+          "birthday": "1985-12-02",
+          "motto": "原各标然国发感为几号火被他向实力名。已前八红技与圆容特龙收世进起间江。"
       },
       {
           "id": 2,
-          "gender": "女",
-          "city": "安徽省",
-          "cname": "周勇",
-          "birthday": "1979-12-07",
-          "motto": "毛取连空号平多速回价机好好着叫声很。",
-          "score": 67
+          "gender": "男",
+          "city": "浙江省",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 88
+              },
+              "math": {
+                  "name": "数学",
+                  "score": 62
+              }
+          },
+          "cname": "万霞",
+          "birthday": "1981-02-27",
+          "motto": "者气消系到家技知干为斯常重单。"
       },
       {
           "id": 3,
           "gender": "男",
           "city": "浙江省",
-          "cname": "韩秀兰",
-          "birthday": "2013-04-11",
-          "motto": "律同性劳于族立史始地却自办热府之速。东间维音因品质动文以进少型场。",
-          "score": 64
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 96
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 89
+              }
+          },
+          "cname": "邹强",
+          "birthday": "1994-07-17",
+          "motto": "作进些记原图农其体华单产声。"
       },
       {
           "id": 4,
-          "gender": "男",
-          "city": "上海市",
-          "cname": "于秀英",
-          "birthday": "1973-07-09",
-          "motto": "马往飞些习增等感价线划接半值上列时。",
-          "score": 99
+          "gender": "女",
+          "city": "浙江省",
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 68
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 95
+              }
+          },
+          "cname": "苏芳",
+          "birthday": "2005-06-18",
+          "motto": "深基太共四上越组厂总知面造除什。出导不无拉日界队边权和斯问元。率指体近型术会海采下约条想进构主。"
       },
       {
           "id": 5,
           "gender": "男",
-          "city": "浙江省",
-          "cname": "龚伟",
-          "birthday": "2007-06-21",
-          "motto": "达往其较响持争农观面叫思第识。水济一战自代严文青到北他活影明状。众型理计京角革究展力支求维战。",
-          "score": 73
+          "city": "江苏省",
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 87
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 63
+              }
+          },
+          "cname": "姚超",
+          "birthday": "2005-03-10",
+          "motto": "由相治长家而消两法调期中必制心期周。价许千律管热在示取受学结科历教行。"
       },
       {
           "id": 6,
-          "gender": "男",
+          "gender": "女",
           "city": "江苏省",
-          "cname": "乔强",
-          "birthday": "1988-06-16",
-          "motto": "去式西受口则济和商省革重计给。政易题百元很整期验然明年用。",
-          "score": 74
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 75
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 87
+              }
+          },
+          "cname": "魏超",
+          "birthday": "1997-05-21",
+          "motto": "气般适心长还马战比切名何该最。"
       },
       {
           "id": 7,
           "gender": "男",
-          "city": "江苏省",
-          "cname": "程娜",
-          "birthday": "1997-12-02",
-          "motto": "体立收海我确院议么权以片世。",
-          "score": 94
+          "city": "浙江省",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 74
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 83
+              }
+          },
+          "cname": "任洋",
+          "birthday": "1992-03-15",
+          "motto": "示形结路织十党或毛连安群交王己九。"
       },
       {
           "id": 8,
           "gender": "男",
           "city": "江苏省",
-          "cname": "龙敏",
-          "birthday": "2014-04-14",
-          "motto": "思圆例广小矿情件形话直织反道意。",
-          "score": 90
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 69
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 62
+              }
+          },
+          "cname": "韩平",
+          "birthday": "1976-12-12",
+          "motto": "集已民共根手科间花况果设按消求。等素转这队人关教安四持指力。斯节当革等你日公交场反压指。"
       },
       {
           "id": 9,
-          "gender": "女",
-          "city": "浙江省",
-          "cname": "赵磊",
-          "birthday": "1989-08-17",
-          "motto": "流质指世专的反见易新点政象边高花十。式然自商程极完反之住海价反构。积出值它合几铁八级委子效已安。",
-          "score": 67
+          "gender": "男",
+          "city": "安徽省",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 68
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 80
+              }
+          },
+          "cname": "冯娟",
+          "birthday": "2014-11-16",
+          "motto": "第开斗利精张作区至有值先。族接北断些政争合九正断完资质率即共。"
       },
       {
           "id": 10,
           "gender": "女",
-          "city": "浙江省",
-          "cname": "万刚",
-          "birthday": "1981-06-23",
-          "motto": "以证却目面每关县前象备约本。",
-          "score": 74
+          "city": "安徽省",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 67
+              },
+              "math": {
+                  "name": "数学",
+                  "score": 92
+              }
+          },
+          "cname": "余强",
+          "birthday": "2007-04-17",
+          "motto": "多油特队平进长比石际历组日织再把。员最质团段眼成写律圆群线油。"
       },
       {
           "id": 11,
-          "gender": "女",
-          "city": "浙江省",
-          "cname": "郝杰",
-          "birthday": "2002-01-07",
-          "motto": "方点立院研斯正领术发些是龙性务也称安。线管集意员动常断和何理百住体么政。",
-          "score": 79
+          "gender": "男",
+          "city": "江苏省",
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 99
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 76
+              }
+          },
+          "cname": "罗敏",
+          "birthday": "2016-07-09",
+          "motto": "了志着意集山万意多民在率素存。"
       },
       {
           "id": 12,
-          "gender": "女",
+          "gender": "男",
           "city": "浙江省",
-          "cname": "马军",
-          "birthday": "2013-12-27",
-          "motto": "口出员斗心什命革加求准每。",
-          "score": 80
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 91
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 94
+              }
+          },
+          "cname": "侯丽",
+          "birthday": "2015-09-03",
+          "motto": "复格龙种素院过要目于权资亲月回就八。级拉几办表速直情便指合原局我体几。"
       },
       {
           "id": 13,
-          "gender": "女",
-          "city": "浙江省",
-          "cname": "廖丽",
-          "birthday": "1998-04-16",
-          "motto": "参也话府率重叫七社给想始划对及。政干边认指深步级己业难据取称类。",
-          "score": 90
+          "gender": "男",
+          "city": "安徽省",
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 94
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 97
+              }
+          },
+          "cname": "吕涛",
+          "birthday": "1995-06-08",
+          "motto": "更少等间王及而因者界选解。"
       },
       {
           "id": 14,
           "gender": "男",
-          "city": "安徽省",
-          "cname": "傅伟",
-          "birthday": "1999-01-06",
-          "motto": "法信事车置想者说理速期头志音万世里。表会带达准命造多就经产造除少太候取。",
-          "score": 95
+          "city": "江苏省",
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 89
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 85
+              }
+          },
+          "cname": "侯娟",
+          "birthday": "2009-04-10",
+          "motto": "治红头飞转名越确热越水技联王。"
       },
       {
           "id": 15,
-          "gender": "男",
-          "city": "安徽省",
-          "cname": "周静",
-          "birthday": "2009-02-07",
-          "motto": "期元思劳影则党斗片上当近质在称内。基比了不来到育争因人资情设战所北它。",
-          "score": 76
+          "gender": "女",
+          "city": "江苏省",
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 70
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 84
+              }
+          },
+          "cname": "锺磊",
+          "birthday": "1978-08-21",
+          "motto": "想各气力证收越志不六府同农打。所商且片构运就花日那式办前与花他真。林月者美战需线后约反感调十音数划斯。"
       },
       {
           "id": 16,
-          "gender": "男",
-          "city": "浙江省",
-          "cname": "毛平",
-          "birthday": "2015-01-04",
-          "motto": "院没白领断值华除日号状离系型流。验易一各非电新合红色观却。",
-          "score": 61
+          "gender": "女",
+          "city": "上海市",
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 61
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 81
+              }
+          },
+          "cname": "段伟",
+          "birthday": "2021-07-27",
+          "motto": "集法部去北问何处就海现改。土接己白越调基理该事习省从广治两。"
       },
       {
           "id": 17,
-          "gender": "女",
-          "city": "安徽省",
-          "cname": "朱静",
-          "birthday": "1994-11-25",
-          "motto": "场节整了见教集正斯给龙选场厂业决于世。",
-          "score": 80
+          "gender": "男",
+          "city": "浙江省",
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 92
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 62
+              }
+          },
+          "cname": "傅娜",
+          "birthday": "1999-04-08",
+          "motto": "争算劳式装明工电流程术名者物感自之。们同量即间共头列深学马争。"
       },
       {
           "id": 18,
           "gender": "女",
-          "city": "浙江省",
-          "cname": "李涛",
-          "birthday": "2011-03-19",
-          "motto": "无因部且院细由争县江适拉电题角满直。本也克强到实部酸酸下计化阶。调果但流时活号果着或支写克却。",
-          "score": 65
+          "city": "上海市",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 64
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 91
+              }
+          },
+          "cname": "冯超",
+          "birthday": "1982-04-23",
+          "motto": "照认来没理记头从须被面省不以如。总主上安两圆他列做际克证统。"
       },
       {
           "id": 19,
           "gender": "女",
-          "city": "浙江省",
-          "cname": "雷超",
-          "birthday": "1970-06-14",
-          "motto": "类完节度图而光九干江组真温格生。",
-          "score": 61
+          "city": "江苏省",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 85
+              },
+              "math": {
+                  "name": "数学",
+                  "score": 61
+              }
+          },
+          "cname": "易强",
+          "birthday": "2021-08-05",
+          "motto": "派离能价们应值时张认接意只观因了那。家儿规治件真家结今出完值。"
       },
       {
           "id": 20,
-          "gender": "女",
+          "gender": "男",
           "city": "上海市",
-          "cname": "萧磊",
-          "birthday": "2017-11-07",
-          "motto": "样委构北清容治飞水再老种至外并新。军有六眼使青青万子严团方育八布约。列号精进华万应采前完和王。",
-          "score": 92
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 77
+              },
+              "math": {
+                  "name": "数学",
+                  "score": 94
+              }
+          },
+          "cname": "任秀英",
+          "birthday": "1983-05-19",
+          "motto": "声家程方力连史设满命自拉传这导东利的。团候型采及目联识事带开期红型派值。"
       },
       {
           "id": 21,
           "gender": "女",
           "city": "浙江省",
-          "cname": "康秀英",
-          "birthday": "1981-11-10",
-          "motto": "战员给放前研世书西根领实第油向断计。",
-          "score": 78
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 71
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 65
+              }
+          },
+          "cname": "薛伟",
+          "birthday": "1984-06-25",
+          "motto": "容平设候非开交指口才多支好。"
       },
       {
           "id": 22,
-          "gender": "女",
-          "city": "上海市",
-          "cname": "贺洋",
-          "birthday": "1996-05-19",
-          "motto": "才油持干合万而知头那各张需府。县较支器温铁再林厂酸党只导口。",
-          "score": 81
+          "gender": "男",
+          "city": "江苏省",
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 90
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 77
+              }
+          },
+          "cname": "康霞",
+          "birthday": "1978-07-25",
+          "motto": "识铁才支切上指报面新同名布压难。新需片教作力上利来周步科接低干天给。"
       },
       {
           "id": 23,
           "gender": "男",
-          "city": "安徽省",
-          "cname": "高伟",
-          "birthday": "1973-08-17",
-          "motto": "电间因回头量会积造建者打可那系几照。",
-          "score": 83
+          "city": "浙江省",
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 62
+              },
+              "math": {
+                  "name": "数学",
+                  "score": 71
+              }
+          },
+          "cname": "邱丽",
+          "birthday": "1985-08-06",
+          "motto": "青高求须决运八其千集满反住。千每难我却叫八当面即切空目党情。"
       },
       {
           "id": 24,
-          "gender": "女",
-          "city": "安徽省",
-          "cname": "夏敏",
-          "birthday": "1985-09-06",
-          "motto": "众清育导适因是队在人称所物领线条。",
-          "score": 67
+          "gender": "男",
+          "city": "浙江省",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 91
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 68
+              }
+          },
+          "cname": "锺秀兰",
+          "birthday": "1986-07-15",
+          "motto": "中它计其工五集去不象金公太面理。文点今真级张华较构联信克己由引机。得提石期接值文省利如级还。"
       },
       {
           "id": 25,
-          "gender": "男",
-          "city": "浙江省",
-          "cname": "潘超",
-          "birthday": "1986-11-01",
-          "motto": "律品头学米信外思可特等儿将列技复。确管门其做己价展更期青数名。",
-          "score": 98
+          "gender": "女",
+          "city": "江苏省",
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 70
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 80
+              }
+          },
+          "cname": "邓秀英",
+          "birthday": "2016-08-12",
+          "motto": "人年合需段值清回打来包备社增元。好着极划别义据般已出步术志大理史。"
       },
       {
           "id": 26,
-          "gender": "男",
+          "gender": "女",
           "city": "江苏省",
-          "cname": "萧丽",
-          "birthday": "2009-11-03",
-          "motto": "方格写几权包装约干始导青如别为。计育证先派空前局亲众万示常别委。",
-          "score": 89
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 84
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 97
+              }
+          },
+          "cname": "方明",
+          "birthday": "2020-10-31",
+          "motto": "大然酸只非最海院片员当世。"
       },
       {
           "id": 27,
           "gender": "女",
-          "city": "浙江省",
-          "cname": "徐勇",
-          "birthday": "1977-11-14",
-          "motto": "值它色精期老日县内目叫六真。今号带克花型林年则记子干劳机引认边。",
-          "score": 99
+          "city": "安徽省",
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 66
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 82
+              }
+          },
+          "cname": "廖明",
+          "birthday": "1987-08-26",
+          "motto": "下干消员龙白他行置过列如步设表感却。本际务又带形等安都自非常级少活。主照备周持交标系引全具太。"
       },
       {
           "id": 28,
-          "gender": "女",
+          "gender": "男",
           "city": "浙江省",
-          "cname": "孙秀兰",
-          "birthday": "2011-04-07",
-          "motto": "理元重与声水算重义治活难果头次队过周。治农去这部改有相意应业说力。",
-          "score": 69
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 91
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 88
+              }
+          },
+          "cname": "任秀兰",
+          "birthday": "1979-12-23",
+          "motto": "院明解群任此好调别性半不。"
       },
       {
           "id": 29,
           "gender": "女",
-          "city": "江苏省",
-          "cname": "武明",
-          "birthday": "2013-02-10",
-          "motto": "断步的边亲感才消史方也般构证而深。省织形采中人身温你边海式间列程保。",
-          "score": 91
+          "city": "安徽省",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 89
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 99
+              }
+          },
+          "cname": "孔强",
+          "birthday": "1975-01-23",
+          "motto": "真速机本也等物备近达格求里。日期特者对工量维展说所片便利南报。五市低低地按形安做从规料。"
       },
       {
           "id": 30,
-          "gender": "女",
-          "city": "江苏省",
-          "cname": "段艳",
-          "birthday": "2013-08-11",
-          "motto": "发规千领二包间的支路商马眼效角。术思便机交她起要展率断越知。",
-          "score": 72
+          "gender": "男",
+          "city": "浙江省",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 99
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 68
+              }
+          },
+          "cname": "薛秀英",
+          "birthday": "2000-07-10",
+          "motto": "口算人后重亲内比战准水料命已派。级过议法龙整机效清将区间日采。题易成断将统议出有来则根解。"
       },
       {
           "id": 31,
-          "gender": "女",
-          "city": "江苏省",
-          "cname": "龙芳",
-          "birthday": "2014-04-26",
-          "motto": "眼风受采证族命对在采使支问果并验基花。京构变三品物信价京直六意这口影压。",
-          "score": 94
+          "gender": "男",
+          "city": "浙江省",
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 99
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 99
+              }
+          },
+          "cname": "刘刚",
+          "birthday": "1973-06-16",
+          "motto": "加济求社往张多生识领而容。"
       },
       {
           "id": 32,
-          "gender": "男",
+          "gender": "女",
           "city": "江苏省",
-          "cname": "江杰",
-          "birthday": "1979-01-26",
-          "motto": "意要参国快据但于时便报名人。声则很别步院实标出心华物大。内口须应安存动色他江内维青只转。",
-          "score": 85
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 84
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 97
+              }
+          },
+          "cname": "范杰",
+          "birthday": "2019-08-04",
+          "motto": "已议京并山示上取目音信院验七称取约。眼下很约劳世同但步如想确况往便满。"
       },
       {
           "id": 33,
-          "gender": "女",
+          "gender": "男",
           "city": "浙江省",
-          "cname": "何娜",
-          "birthday": "2021-06-14",
-          "motto": "四象出也完她运北铁商影劳。",
-          "score": 75
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 73
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 91
+              }
+          },
+          "cname": "张娟",
+          "birthday": "2007-04-14",
+          "motto": "其京区江军最本金布器其员。子水给我万团热品些且着价思就权。"
       },
       {
           "id": 34,
-          "gender": "男",
-          "city": "江苏省",
-          "cname": "高刚",
-          "birthday": "1978-08-19",
-          "motto": "正战长华通总命意且今米育九据观层。",
-          "score": 98
+          "gender": "女",
+          "city": "上海市",
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 70
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 93
+              }
+          },
+          "cname": "于超",
+          "birthday": "1998-01-16",
+          "motto": "着容一了事那适压给两严无。样约维日群许名管究无把图区干。和家总空角电型办器铁科以年候使率。"
       },
       {
           "id": 35,
-          "gender": "女",
-          "city": "江苏省",
-          "cname": "夏芳",
-          "birthday": "1988-05-12",
-          "motto": "米技水织眼正头十运重器子感天。",
-          "score": 77
+          "gender": "男",
+          "city": "浙江省",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 84
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 60
+              }
+          },
+          "cname": "吕涛",
+          "birthday": "1991-08-12",
+          "motto": "内使种斗细场新使及知中儿信人个。铁观农相单么争传其老又究。"
       },
       {
           "id": 36,
-          "gender": "男",
-          "city": "江苏省",
-          "cname": "黎娜",
-          "birthday": "2015-02-25",
-          "motto": "信该始历空战的置务加切起据连已文积。并装带见制县式车信约活院被复。",
-          "score": 85
+          "gender": "女",
+          "city": "浙江省",
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 62
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 90
+              }
+          },
+          "cname": "高芳",
+          "birthday": "2020-04-28",
+          "motto": "道特却位北规此界之开又程并太。其织物才着身统步历名等万。基红几每目包置天级近何得今革理是。"
       },
       {
           "id": 37,
           "gender": "女",
           "city": "浙江省",
-          "cname": "陈秀英",
-          "birthday": "2014-01-31",
-          "motto": "我形量至联工科社属面政联。年除后毛点决周系断市拉叫验观。",
-          "score": 88
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 62
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 83
+              }
+          },
+          "cname": "郭超",
+          "birthday": "1981-03-03",
+          "motto": "代道列院就长得许被今片问当还。十动行路会多角是门最声圆接。"
       },
       {
           "id": 38,
           "gender": "女",
-          "city": "安徽省",
-          "cname": "潘霞",
-          "birthday": "2000-07-03",
-          "motto": "还就标拉领解义农子下运层报。边制干分万明物美需米写想结气。素除为速品美两说圆八阶给团步。",
-          "score": 69
+          "city": "江苏省",
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 69
+              },
+              "math": {
+                  "name": "数学",
+                  "score": 68
+              }
+          },
+          "cname": "杨勇",
+          "birthday": "1990-09-16",
+          "motto": "定至率高队法根制面政农过南机较金候。理复她属么南但期眼争去流圆。"
       },
       {
           "id": 39,
-          "gender": "女",
+          "gender": "男",
           "city": "上海市",
-          "cname": "易洋",
-          "birthday": "2008-02-17",
-          "motto": "北四广最备支该做使七领太影于已军走。着出地标制究不对大情院况此。",
-          "score": 78
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 95
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 69
+              }
+          },
+          "cname": "常超",
+          "birthday": "1977-07-30",
+          "motto": "线影认者说常石议反比确政观此称作变派。说就作状离除长的带她平小术治我。活群严规新你主步论象正知复。"
       },
       {
           "id": 40,
-          "gender": "男",
-          "city": "浙江省",
-          "cname": "范敏",
-          "birthday": "2012-04-03",
-          "motto": "质好国点义中电支改十府产。",
-          "score": 62
+          "gender": "女",
+          "city": "上海市",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 94
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 90
+              }
+          },
+          "cname": "石芳",
+          "birthday": "1994-01-27",
+          "motto": "义断低提效组料社铁近切石作什。该米斗三西位类还织候管后须向产前应。"
       },
       {
           "id": 41,
           "gender": "男",
-          "city": "安徽省",
-          "cname": "马明",
-          "birthday": "1995-09-20",
-          "motto": "也去别单完经使义委千件己布过收。办全百没积教口近便形有度时外想。此军世交任除见共定当己方酸等组。",
-          "score": 78
+          "city": "上海市",
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 91
+              },
+              "math": {
+                  "name": "数学",
+                  "score": 97
+              }
+          },
+          "cname": "朱杰",
+          "birthday": "2020-12-13",
+          "motto": "本斗更张造济光原光划统将党风改直转。"
       },
       {
           "id": 42,
-          "gender": "男",
+          "gender": "女",
           "city": "江苏省",
-          "cname": "林洋",
-          "birthday": "1976-03-05",
-          "motto": "斗装形点门手其知精化号九称你天。",
-          "score": 78
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 66
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 78
+              }
+          },
+          "cname": "许平",
+          "birthday": "1979-01-17",
+          "motto": "亲两度于需做应容界铁拉断。特求放见育必方的委号场么世。"
       },
       {
           "id": 43,
           "gender": "男",
           "city": "上海市",
-          "cname": "钱平",
-          "birthday": "1984-11-16",
-          "motto": "事斗根次交值发史提红三准战较。气率情火节合市新见大界反备求圆由。",
-          "score": 88
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 72
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 76
+              }
+          },
+          "cname": "韩涛",
+          "birthday": "2018-05-02",
+          "motto": "九铁面采带术相学技改直反族常复。"
       },
       {
           "id": 44,
-          "gender": "女",
+          "gender": "男",
           "city": "浙江省",
-          "cname": "叶强",
-          "birthday": "1983-12-09",
-          "motto": "只这活队题劳设反府青才合问百并。",
-          "score": 88
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 80
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 73
+              }
+          },
+          "cname": "方敏",
+          "birthday": "1980-04-13",
+          "motto": "取务满那变海值资在决革派员作。学四群米圆建状难严什它报无统叫个将。"
       },
       {
           "id": 45,
-          "gender": "男",
-          "city": "江苏省",
-          "cname": "曹伟",
-          "birthday": "1973-10-05",
-          "motto": "干完她受军定支要命有说织厂个。别须美证节展老为满成色党月之近。",
-          "score": 98
+          "gender": "女",
+          "city": "浙江省",
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 97
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 62
+              }
+          },
+          "cname": "曾刚",
+          "birthday": "2009-06-14",
+          "motto": "群离支声传通始政四照铁成专日。风斯区节打原机北作队高龙算统给单。"
       },
       {
           "id": 46,
-          "gender": "男",
+          "gender": "女",
           "city": "江苏省",
-          "cname": "萧静",
-          "birthday": "1976-01-27",
-          "motto": "研收值手并持比约口后三话化。低小农满属维处容局周料长处中七给多。",
-          "score": 70
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 89
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 62
+              }
+          },
+          "cname": "史平",
+          "birthday": "2009-10-22",
+          "motto": "深科集由程消权平治头清说始。现战半期难理于每极集点中个结起。"
       },
       {
           "id": 47,
           "gender": "男",
-          "city": "江苏省",
-          "cname": "胡娟",
-          "birthday": "1997-06-04",
-          "motto": "没战面委队程商极多北系无史油。空加产革经任团第流领需量集八百。",
-          "score": 64
+          "city": "安徽省",
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 89
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 83
+              }
+          },
+          "cname": "侯艳",
+          "birthday": "2001-03-12",
+          "motto": "期回近并知意以区过连在别。"
       },
       {
           "id": 48,
-          "gender": "男",
+          "gender": "女",
           "city": "安徽省",
-          "cname": "黎涛",
-          "birthday": "1988-03-24",
-          "motto": "示行连运布持研区论身由第流济能最始。",
-          "score": 73
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 99
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 64
+              }
+          },
+          "cname": "白丽",
+          "birthday": "1979-03-05",
+          "motto": "至始研响气没题米调心资级化。"
       },
       {
           "id": 49,
           "gender": "男",
-          "city": "上海市",
-          "cname": "李静",
-          "birthday": "1979-04-01",
-          "motto": "海阶物规无由者方下教听电。程物子将全年深至周任动华很圆去单。",
-          "score": 85
+          "city": "浙江省",
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 69
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 85
+              }
+          },
+          "cname": "许杰",
+          "birthday": "2015-06-19",
+          "motto": "及点算厂回农如又月约学为造近。题展也表计况求次解热放办各我交示。"
       },
       {
           "id": 50,
           "gender": "女",
-          "city": "安徽省",
-          "cname": "毛超",
-          "birthday": "2009-07-07",
-          "motto": "联增县起无转须员则战原处大色红斯战教。主连论老但外者五般引则资取科民少。",
-          "score": 77
+          "city": "浙江省",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 71
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 95
+              }
+          },
+          "cname": "常芳",
+          "birthday": "2009-05-01",
+          "motto": "义切思也工段低程清做期按联。"
       },
       {
           "id": 51,
-          "gender": "男",
-          "city": "江苏省",
-          "cname": "廖丽",
-          "birthday": "2013-10-19",
-          "motto": "目往己照风必上查音争头又技下。情不产即议们最线油便又号选石北各十。",
-          "score": 61
+          "gender": "女",
+          "city": "安徽省",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 96
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 70
+              }
+          },
+          "cname": "徐洋",
+          "birthday": "2014-10-17",
+          "motto": "务速状派社年作报六质主于决。建律展切什明外土除能具热革。"
       },
       {
           "id": 52,
-          "gender": "男",
-          "city": "浙江省",
-          "cname": "邱平",
-          "birthday": "1995-10-10",
-          "motto": "半写几始观养劳者心热山八切。道等调中国期广往得其立义感际理照积。义务质眼去实来将林叫世调研局非。",
-          "score": 96
+          "gender": "女",
+          "city": "江苏省",
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 91
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 61
+              }
+          },
+          "cname": "孙敏",
+          "birthday": "2003-12-10",
+          "motto": "数济存产或听接文气石程节据。"
       },
       {
           "id": 53,
-          "gender": "男",
-          "city": "江苏省",
-          "cname": "易杰",
-          "birthday": "1994-02-05",
-          "motto": "间派门问党力高心向八圆声新府适水。",
-          "score": 93
+          "gender": "女",
+          "city": "浙江省",
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 77
+              },
+              "math": {
+                  "name": "数学",
+                  "score": 83
+              }
+          },
+          "cname": "沈军",
+          "birthday": "1977-09-17",
+          "motto": "消只局认离半将月维专打是往战义。劳万矿目那就团织如大也料加识。"
       },
       {
           "id": 54,
-          "gender": "女",
+          "gender": "男",
           "city": "江苏省",
-          "cname": "蒋芳",
-          "birthday": "1991-08-15",
-          "motto": "消省电极圆率己没效二到律技油。石观指管斗第利农年月题头从物处写群再。",
-          "score": 65
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 91
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 75
+              }
+          },
+          "cname": "段丽",
+          "birthday": "1993-10-14",
+          "motto": "住带论根日农质每新划义传于。二军拉据习员目基至进阶分七。"
       },
       {
           "id": 55,
-          "gender": "女",
-          "city": "上海市",
-          "cname": "卢丽",
-          "birthday": "1984-11-24",
-          "motto": "现划在将查文老习件完展月物提。效位白花进识照南好反还特知实。",
-          "score": 97
+          "gender": "男",
+          "city": "安徽省",
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 98
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 91
+              }
+          },
+          "cname": "曾娜",
+          "birthday": "2014-05-16",
+          "motto": "酸之山根属想容可节全式学非较府器代。因养转除与路备光林维入只战土。生许每习或院很元装温求者九。"
       },
       {
           "id": 56,
           "gender": "男",
           "city": "江苏省",
-          "cname": "邹静",
-          "birthday": "2014-12-08",
-          "motto": "解速万务然全中少部从节维西。打资次家面毛政世和头拉月器机。",
-          "score": 80
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 61
+              },
+              "math": {
+                  "name": "数学",
+                  "score": 99
+              }
+          },
+          "cname": "汪芳",
+          "birthday": "2012-09-08",
+          "motto": "经果高布效素江都段局许难图道性。造技人候质划验所数造收太法力往数至。"
       },
       {
           "id": 57,
           "gender": "女",
-          "city": "江苏省",
-          "cname": "孙超",
-          "birthday": "1987-02-01",
-          "motto": "进应产权照育给合专打路放为之。存条样产特县府第往务南应百眼。的越议打除验矿组件存制党精清化。",
-          "score": 93
+          "city": "浙江省",
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 63
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 88
+              }
+          },
+          "cname": "黄艳",
+          "birthday": "1985-07-02",
+          "motto": "明委族这历些活叫年表多上拉称列称今。"
       },
       {
           "id": 58,
           "gender": "女",
-          "city": "浙江省",
-          "cname": "赖娟",
-          "birthday": "1982-01-26",
-          "motto": "江传教管形化手务土圆制革业义风四住该。消及约面加想铁亲打对元发教教反形。",
-          "score": 91
+          "city": "江苏省",
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 86
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 66
+              }
+          },
+          "cname": "戴秀英",
+          "birthday": "2000-12-03",
+          "motto": "更而军织合度那毛质专意速厂。内受党行要比研识团容位平消新养想。"
       },
       {
           "id": 59,
           "gender": "男",
-          "city": "江苏省",
-          "cname": "邵桂英",
-          "birthday": "2008-02-10",
-          "motto": "相消件酸管经论三主革车用。",
-          "score": 89
+          "city": "安徽省",
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 62
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 90
+              }
+          },
+          "cname": "吕伟",
+          "birthday": "2002-05-21",
+          "motto": "里由月革常易基制六调很习角图。化族属委华细思老物是长便义先力此技。"
       },
       {
           "id": 60,
-          "gender": "男",
+          "gender": "女",
           "city": "浙江省",
-          "cname": "杨杰",
-          "birthday": "1996-08-29",
-          "motto": "育员下深林研须育史则却政社论电意。记地自处文好快许期么多展们几。",
-          "score": 96
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 79
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 81
+              }
+          },
+          "cname": "陆洋",
+          "birthday": "1990-06-09",
+          "motto": "研空边解水效例土放强说报青备图月。但果更史色关生改土今照理。"
       },
       {
           "id": 61,
-          "gender": "男",
-          "city": "江苏省",
-          "cname": "赵洋",
-          "birthday": "2015-09-07",
-          "motto": "九积列统物己受定看接具金去九。",
-          "score": 87
+          "gender": "女",
+          "city": "安徽省",
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 94
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 78
+              }
+          },
+          "cname": "汪秀英",
+          "birthday": "2013-05-02",
+          "motto": "军第置文江条影教单我办增飞报市例毛。收状色更适院而制出资属算论那。"
       },
       {
           "id": 62,
-          "gender": "男",
-          "city": "江苏省",
-          "cname": "吕娜",
-          "birthday": "1990-07-09",
-          "motto": "眼日边状变设温人家得价界活这。科引向压参置发传几标成议。",
-          "score": 72
+          "gender": "女",
+          "city": "浙江省",
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 93
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 62
+              }
+          },
+          "cname": "余伟",
+          "birthday": "1974-08-13",
+          "motto": "合引界建院商酸今毛验也走条活同。"
       },
       {
           "id": 63,
           "gender": "男",
-          "city": "安徽省",
-          "cname": "余伟",
-          "birthday": "1996-08-04",
-          "motto": "经级节家总听日期象华得历战存。",
-          "score": 73
+          "city": "浙江省",
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 70
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 75
+              }
+          },
+          "cname": "秦洋",
+          "birthday": "1974-03-12",
+          "motto": "好小铁周华管县住形集许产八走成通音。这义同三进水月接数道十二持。"
       },
       {
           "id": 64,
           "gender": "女",
-          "city": "上海市",
-          "cname": "钱秀英",
-          "birthday": "1987-10-12",
-          "motto": "地成及选发火反引山给应器展论极样。专厂相委达除好权度住理步直指现别论。适都总列过然才集列较易军采几着。",
-          "score": 65
+          "city": "安徽省",
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 76
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 96
+              }
+          },
+          "cname": "侯丽",
+          "birthday": "1980-06-12",
+          "motto": "比选立认该划交但地与会管标动两农。直定被给题算强向铁图却变但。细物积转红日济即写里级原果十受合。"
       },
       {
           "id": 65,
           "gender": "男",
           "city": "江苏省",
-          "cname": "白平",
-          "birthday": "1978-09-25",
-          "motto": "角压花持约准结压也格重且员话。张放基期提根率改道两治热色。华快他况领斗然种节白克则强任员问。",
-          "score": 79
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 85
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 87
+              }
+          },
+          "cname": "姚丽",
+          "birthday": "1986-06-05",
+          "motto": "质给门半因加度许转节四起要领。采育她使增格和任二交意治三。样带者此政向完品引类红时八。"
       },
       {
           "id": 66,
           "gender": "女",
-          "city": "浙江省",
-          "cname": "陈军",
-          "birthday": "1976-11-26",
-          "motto": "七前往也求没它发必电质风元报深拉值。样安个九气且热应法带是置多美一据。",
-          "score": 81
+          "city": "上海市",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 96
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 79
+              }
+          },
+          "cname": "姜磊",
+          "birthday": "2011-04-24",
+          "motto": "却非路第克族里今见运革教。历果务过知华严才海米志会半做列感提。越组内决者才格非条海确光运。"
       },
       {
           "id": 67,
           "gender": "男",
-          "city": "江苏省",
-          "cname": "阎秀英",
-          "birthday": "1978-01-11",
-          "motto": "值行重直间且布米向天家九构越般军。行五山人山半于教或对少他必地。低海运使世种必农持养温己。",
-          "score": 66
+          "city": "上海市",
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 91
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 82
+              }
+          },
+          "cname": "沈娟",
+          "birthday": "1986-10-23",
+          "motto": "派数美行家社消满音受里基非。方全济共值革领东组最以连。"
       },
       {
           "id": 68,
           "gender": "男",
           "city": "江苏省",
-          "cname": "康勇",
-          "birthday": "2000-03-01",
-          "motto": "出定南都经区求车论特斗关部。外斯果张术县时划斗经但期度化。山使酸计回指高再极队复信龙王名约指精。",
-          "score": 73
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 83
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 66
+              }
+          },
+          "cname": "王芳",
+          "birthday": "1975-03-17",
+          "motto": "严要日度不传响员张主县研极。标验青段原素决与又打取术。维边段此每消许体又效些青派对存到阶人。"
       },
       {
           "id": 69,
           "gender": "女",
           "city": "上海市",
-          "cname": "梁秀英",
-          "birthday": "1991-03-25",
-          "motto": "门具查响七造维文火能住西自提。建习增感程着克五据要并而么标委始。地东它战飞步根被整单而进议关毛省进。",
-          "score": 70
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 73
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 89
+              }
+          },
+          "cname": "杨娜",
+          "birthday": "1996-10-21",
+          "motto": "育道片组见集再基三感风成叫。四规工联理车习研大传周中式约之。石这主太保除当是办她究你者。"
       },
       {
           "id": 70,
           "gender": "男",
-          "city": "安徽省",
-          "cname": "龚霞",
-          "birthday": "1987-12-15",
-          "motto": "青部道志已条为以被感去风习。只力具运三象准都量济面马任出积。",
-          "score": 66
+          "city": "浙江省",
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 60
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 64
+              }
+          },
+          "cname": "戴静",
+          "birthday": "1983-06-19",
+          "motto": "单手今府是美革器代级己律复压间。"
       },
       {
           "id": 71,
           "gender": "女",
-          "city": "安徽省",
-          "cname": "段静",
-          "birthday": "2017-01-02",
-          "motto": "志区们支把增养科进院干报已一没边。引越部各亲放而天交把深于增解行酸复世。认果和量存深处老容革家近能思为造。",
-          "score": 99
+          "city": "上海市",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 77
+              },
+              "math": {
+                  "name": "数学",
+                  "score": 91
+              }
+          },
+          "cname": "白霞",
+          "birthday": "1991-04-12",
+          "motto": "满保们要非北价把住飞府群对党。许与力称开织水此山易严构音走。"
       },
       {
           "id": 72,
           "gender": "男",
           "city": "浙江省",
-          "cname": "戴杰",
-          "birthday": "1992-12-14",
-          "motto": "并毛准各土化干十用又至该住所主起风。可后军于发任细为断点制保选方大容强。",
-          "score": 64
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 86
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 82
+              }
+          },
+          "cname": "胡杰",
+          "birthday": "2012-12-28",
+          "motto": "务建王决结好料量线在安西被节度。示府九系队内教化度己酸她老书山厂清。他式新开布制许象车济农院取受。"
       },
       {
           "id": 73,
           "gender": "男",
-          "city": "上海市",
-          "cname": "康艳",
-          "birthday": "2016-03-02",
-          "motto": "百他民今信省阶毛样专直色那作改应。政反半对现老但接八类安性化行。",
-          "score": 93
+          "city": "浙江省",
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 65
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 97
+              }
+          },
+          "cname": "罗涛",
+          "birthday": "1989-09-11",
+          "motto": "交事角气天白导平感专华前。格打制数相准国温已真自参车易制十。"
       },
       {
           "id": 74,
-          "gender": "女",
-          "city": "浙江省",
-          "cname": "邱军",
-          "birthday": "1975-04-05",
-          "motto": "到代多江们在直信文物间提总。当增许石战原民近明价年大统铁形传。",
-          "score": 96
+          "gender": "男",
+          "city": "安徽省",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 61
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 74
+              }
+          },
+          "cname": "金娜",
+          "birthday": "2020-08-27",
+          "motto": "名查史可月使知林消使圆响委存断二。"
       },
       {
           "id": 75,
           "gender": "女",
           "city": "浙江省",
-          "cname": "常杰",
-          "birthday": "2014-05-14",
-          "motto": "便步消几律器社接消科心式共联她现。",
-          "score": 85
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 86
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 97
+              }
+          },
+          "cname": "姜娟",
+          "birthday": "1998-10-25",
+          "motto": "完马导治运见论产号院命种律度心干。层情细派果马多着天都结后。"
       },
       {
           "id": 76,
-          "gender": "男",
-          "city": "浙江省",
-          "cname": "苏明",
-          "birthday": "1974-01-28",
-          "motto": "酸构今老派管心边平此信就强将儿。根内叫每示增打走本被系亲。情通式心直花济人加思火马矿能证边。",
-          "score": 80
+          "gender": "女",
+          "city": "江苏省",
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 75
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 73
+              }
+          },
+          "cname": "彭勇",
+          "birthday": "1976-04-08",
+          "motto": "他式通众切运必们利如单今。"
       },
       {
           "id": 77,
           "gender": "女",
-          "city": "江苏省",
-          "cname": "苏强",
-          "birthday": "2003-04-02",
-          "motto": "感属口价型下众置话划算公期资区历。",
-          "score": 71
+          "city": "浙江省",
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 63
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 83
+              }
+          },
+          "cname": "毛丽",
+          "birthday": "1991-11-07",
+          "motto": "规府根世传外很较律论所史儿。类分维起机样重参高打置省头。"
       },
       {
           "id": 78,
           "gender": "男",
           "city": "上海市",
-          "cname": "陆强",
-          "birthday": "2004-09-20",
-          "motto": "何很对但本高没第争百除越习指南青比。次般料四下世度共产基界流它。",
-          "score": 89
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 89
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 69
+              }
+          },
+          "cname": "锺军",
+          "birthday": "2017-04-05",
+          "motto": "定制系矿程如光向采门流作党。日取九价世务问合龙一十据约断包院。"
       },
       {
           "id": 79,
-          "gender": "男",
-          "city": "安徽省",
-          "cname": "汤秀英",
-          "birthday": "1976-09-05",
-          "motto": "地完象天空般参据组它整花集改之情外日。干思造去单院为己几王眼容理来年完采。",
-          "score": 85
+          "gender": "女",
+          "city": "上海市",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 87
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 93
+              }
+          },
+          "cname": "蔡丽",
+          "birthday": "1988-12-03",
+          "motto": "对管般根根传油国料南光或。真开者气些织义明合海院当想者作劳前。"
       },
       {
           "id": 80,
-          "gender": "男",
+          "gender": "女",
           "city": "浙江省",
-          "cname": "尹明",
-          "birthday": "1981-10-19",
-          "motto": "写几上精开处边化治重活段切加其较。们下市系铁之活状际内公斯家场。",
-          "score": 70
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 64
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 85
+              }
+          },
+          "cname": "丁洋",
+          "birthday": "2008-12-16",
+          "motto": "口三量这低教有机查示明片即反。相集例阶构直么龙东省个科性许其且。着元里直片而种几间为例矿十时增。"
       },
       {
           "id": 81,
-          "gender": "男",
-          "city": "安徽省",
-          "cname": "朱洋",
-          "birthday": "2016-07-03",
-          "motto": "张极带目手难布出专活公他市。理回精红老华例务它些采里点界划温。选四识之生理要或理把应六红。",
-          "score": 77
+          "gender": "女",
+          "city": "江苏省",
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 85
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 76
+              }
+          },
+          "cname": "赖涛",
+          "birthday": "1998-03-31",
+          "motto": "约好元布际区劳身想知确再形眼。志证们历龙义年美正你划又期红志其四。"
       },
       {
           "id": 82,
           "gender": "女",
-          "city": "江苏省",
-          "cname": "崔娟",
-          "birthday": "2003-03-13",
-          "motto": "起要眼口八来大克二什方报党素亲半光平。太联于百报说已法分战些何决业走世。",
-          "score": 74
+          "city": "浙江省",
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 88
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 81
+              }
+          },
+          "cname": "孟洋",
+          "birthday": "1984-06-30",
+          "motto": "基律很县进省得采光义主走圆如工件。习千般北场南快条说次持整飞。"
       },
       {
           "id": 83,
           "gender": "男",
-          "city": "江苏省",
-          "cname": "黄平",
-          "birthday": "1995-07-19",
-          "motto": "山备主形运称运义容边科万由越术格。布动边装指级集没程走金度验别条却认。发通验如作使里志办空作没性并。",
-          "score": 88
+          "city": "浙江省",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 77
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 79
+              }
+          },
+          "cname": "侯明",
+          "birthday": "2018-10-22",
+          "motto": "工无速反成动有和如飞即联克造种此组。传还好而感亲用具改此号国织根工。"
       },
       {
           "id": 84,
           "gender": "男",
-          "city": "江苏省",
-          "cname": "郑洋",
-          "birthday": "2010-05-06",
-          "motto": "文队因小象却解组记前情次主。",
-          "score": 84
+          "city": "上海市",
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 95
+              },
+              "math": {
+                  "name": "数学",
+                  "score": 70
+              }
+          },
+          "cname": "蒋秀英",
+          "birthday": "2014-10-24",
+          "motto": "题志现则阶定织号展要火照。无际是能想是听结集界按知红定价质设进。"
       },
       {
           "id": 85,
-          "gender": "女",
-          "city": "江苏省",
-          "cname": "曹芳",
-          "birthday": "2022-06-06",
-          "motto": "现南道单家至难立提存界构二四统。别记真周提几看反始公天团适战。",
-          "score": 83
+          "gender": "男",
+          "city": "安徽省",
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 79
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 94
+              }
+          },
+          "cname": "蒋静",
+          "birthday": "2013-03-30",
+          "motto": "也战开现整成研名流声基状转平。然集文元看两根包律委需气较求。"
       },
       {
           "id": 86,
-          "gender": "女",
-          "city": "浙江省",
-          "cname": "许涛",
-          "birthday": "1991-09-02",
-          "motto": "照应使候照里节不下物组究目别家科除。",
-          "score": 69
+          "gender": "男",
+          "city": "安徽省",
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 74
+              },
+              "math": {
+                  "name": "数学",
+                  "score": 86
+              }
+          },
+          "cname": "杜霞",
+          "birthday": "1975-11-16",
+          "motto": "位除带段二开社些学太或时酸者记其图。山路效目断目东计参族使重合且引结习。"
       },
       {
           "id": 87,
           "gender": "女",
           "city": "江苏省",
-          "cname": "戴霞",
-          "birthday": "1996-04-17",
-          "motto": "温候高等造物名断制特史级飞传传选太。",
-          "score": 85
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 90
+              },
+              "math": {
+                  "name": "数学",
+                  "score": 65
+              }
+          },
+          "cname": "郭洋",
+          "birthday": "1977-03-11",
+          "motto": "权精参更已不百总克火种从。"
       },
       {
           "id": 88,
           "gender": "女",
-          "city": "浙江省",
-          "cname": "魏刚",
-          "birthday": "2017-09-05",
-          "motto": "般即南流格社使维条家众你看。流拉此几间标门便律却至都天一。",
-          "score": 78
+          "city": "江苏省",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 93
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 85
+              }
+          },
+          "cname": "曾娟",
+          "birthday": "2000-11-06",
+          "motto": "料党速色器型了两京样满此这际。动厂段清通成走器满般义而。"
       },
       {
           "id": 89,
-          "gender": "女",
+          "gender": "男",
           "city": "浙江省",
-          "cname": "毛超",
-          "birthday": "1991-05-07",
-          "motto": "包反特矿还比阶委想很它性术就时他常。马习验期出生应局标响线五。常就报图根五人路究易品约长局传温向。",
-          "score": 69
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 81
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 88
+              }
+          },
+          "cname": "汪明",
+          "birthday": "1974-02-26",
+          "motto": "传上构规上内可里本交路社群局六石器也。他历农料组安那低工非东共决先义才。往展况据间导并质华量自存提并事。"
       },
       {
           "id": 90,
           "gender": "女",
           "city": "江苏省",
-          "cname": "余艳",
-          "birthday": "1970-10-16",
-          "motto": "格给响拉要带这位和属东题这办世各。识阶组南那活支算值该式石使至值向深。",
-          "score": 76
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 82
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 92
+              }
+          },
+          "cname": "邓磊",
+          "birthday": "1989-03-27",
+          "motto": "志矿体中再无具般值军口因何果但。"
       },
       {
           "id": 91,
           "gender": "男",
-          "city": "上海市",
-          "cname": "石娟",
-          "birthday": "2014-10-26",
-          "motto": "干业个联非快计其光党半华。",
-          "score": 73
+          "city": "浙江省",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 68
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 75
+              }
+          },
+          "cname": "孟刚",
+          "birthday": "1983-10-28",
+          "motto": "说交见前题何技方往地传温。且命置型老为约号程种月研话世温是。"
       },
       {
           "id": 92,
           "gender": "女",
-          "city": "安徽省",
-          "cname": "蒋艳",
-          "birthday": "2009-03-18",
-          "motto": "是深算物叫王关并根件高义然队。着月厂数日四性至指标听应。没无信色百写员克收样观联月石并以准那。",
-          "score": 90
+          "city": "江苏省",
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 67
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 93
+              }
+          },
+          "cname": "白霞",
+          "birthday": "1998-09-01",
+          "motto": "角清阶将金道放利济经示头层上复音式。制取目毛口面着一通人色去般里八段认。"
       },
       {
           "id": 93,
-          "gender": "女",
-          "city": "安徽省",
-          "cname": "周敏",
-          "birthday": "1996-11-23",
-          "motto": "大证红使白此节而特科去起强族成着直响。",
-          "score": 64
+          "gender": "男",
+          "city": "浙江省",
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 79
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 80
+              }
+          },
+          "cname": "雷丽",
+          "birthday": "2013-04-06",
+          "motto": "完去活满标会速打例下次代很县际。原值点结即步路立即目里小低清五没各用。图如合等战叫原角认思法什做段只带原。"
       },
       {
           "id": 94,
-          "gender": "女",
-          "city": "上海市",
-          "cname": "徐杰",
-          "birthday": "1997-11-21",
-          "motto": "拉不矿者作包命难交支动争主。",
-          "score": 97
+          "gender": "男",
+          "city": "江苏省",
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 71
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 67
+              }
+          },
+          "cname": "朱秀英",
+          "birthday": "1991-04-25",
+          "motto": "量子声了法门强近期些是重军。省委见极且过认方以出参向八。象已事带心基热你有点且派低年公思。"
       },
       {
           "id": 95,
-          "gender": "女",
-          "city": "上海市",
-          "cname": "许杰",
-          "birthday": "2021-01-13",
-          "motto": "议线许济提间术展难展将治技必。常任我带斯矿民治林做和和二求。",
-          "score": 98
+          "gender": "男",
+          "city": "浙江省",
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 96
+              },
+              "math": {
+                  "name": "数学",
+                  "score": 86
+              }
+          },
+          "cname": "熊勇",
+          "birthday": "1976-12-29",
+          "motto": "布展数需发些新平非面响车但。间法通本求做国提等消党大形。"
       },
       {
           "id": 96,
-          "gender": "女",
-          "city": "上海市",
-          "cname": "郭秀英",
-          "birthday": "1972-08-25",
-          "motto": "事高件美非王观转省门值白治业。是调术做火公公步理广飞目理。",
-          "score": 95
+          "gender": "男",
+          "city": "江苏省",
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 97
+              },
+              "english": {
+                  "name": "英语",
+                  "score": 68
+              }
+          },
+          "cname": "孔秀兰",
+          "birthday": "1975-07-27",
+          "motto": "全的来复很期只动究放支提况能毛。群委去志平更立组证参风统积如进。"
       },
       {
           "id": 97,
-          "gender": "女",
-          "city": "浙江省",
-          "cname": "崔静",
-          "birthday": "2001-08-03",
-          "motto": "车化外号度再面些龙还省县回北存。选导全积步史半最毛明相每部引。",
-          "score": 63
+          "gender": "男",
+          "city": "安徽省",
+          "favsubject": {
+              "math": {
+                  "name": "数学",
+                  "score": 74
+              },
+              "chinese": {
+                  "name": "语文",
+                  "score": 88
+              }
+          },
+          "cname": "龙杰",
+          "birthday": "2018-11-11",
+          "motto": "影其技照日花积你写如满程加运。"
       },
       {
           "id": 98,
-          "gender": "男",
-          "city": "上海市",
-          "cname": "吴敏",
-          "birthday": "1978-06-14",
-          "motto": "必自局片压年本等风声花无转。安才技五定年何三质代上达越治。治验员或四被开真较状石行例素风飞风。",
-          "score": 92
+          "gender": "女",
+          "city": "江苏省",
+          "favsubject": {
+              "pe": {
+                  "name": "体育",
+                  "score": 88
+              },
+              "math": {
+                  "name": "数学",
+                  "score": 86
+              }
+          },
+          "cname": "孙秀英",
+          "birthday": "2006-06-05",
+          "motto": "飞整时议也民始风等见利白斗元数么。"
       },
       {
           "id": 99,
           "gender": "女",
-          "city": "浙江省",
-          "cname": "郭芳",
-          "birthday": "1971-03-23",
-          "motto": "转此任形基维识因青身以值整分验以重安。极断器先从而离千两走别九者格文到。需期学可品白些内九往最用委时记象。",
-          "score": 81
+          "city": "江苏省",
+          "favsubject": {
+              "english": {
+                  "name": "英语",
+                  "score": 63
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 98
+              }
+          },
+          "cname": "余敏",
+          "birthday": "1976-05-15",
+          "motto": "信过义命采会设党江切价次车布。调深节年先花始着米办角音听至么式。派值周参容况量过料强周儿别社展一。"
       },
       {
           "id": 100,
           "gender": "男",
           "city": "江苏省",
-          "cname": "汪杰",
-          "birthday": "1985-04-25",
-          "motto": "太流细心转次然市分况温已铁农委。",
-          "score": 84
+          "favsubject": {
+              "chinese": {
+                  "name": "语文",
+                  "score": 83
+              },
+              "pe": {
+                  "name": "体育",
+                  "score": 71
+              }
+          },
+          "cname": "傅伟",
+          "birthday": "1994-10-06",
+          "motto": "治政其现将北开领天争何形个准识。准业建去山形红出四作事区再花。并她路样治空南矿己例教合没。"
       }
   ]
 }
