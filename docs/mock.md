@@ -1,4 +1,5 @@
-# mock.js
+# Mock.js
+> http://mockjs.com/
 ```js
 var data = Mock.mock({
     'users|10': [{
